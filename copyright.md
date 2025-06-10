@@ -49,3 +49,5 @@ UNIX は The Open Group の登録商標です。
 JM Project や配布マニュアルページに関わるご意見ご要望は linuxjm-discuss@lists.sourceforge.net までお願いします。 
 
 ---
+
+[JM Project のメインページ](/)
